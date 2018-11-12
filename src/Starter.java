@@ -4,6 +4,7 @@ public class Starter {
         System.out.println("siema");
         System.out.println("gjs");
         System.out.println("Czesc tu Just");
+        System.out.println("Czesc tu Just");
 
     }
 }
