@@ -33,5 +33,14 @@ public class Starter {
 
 
     }
+    public void siema() {
+        int a = 8;
+        int b = 9;
 
-}
+        return;
+        }
+
+
+    }
+
+
