@@ -1,5 +1,6 @@
 public class Starter {
     public static void main(String[] args) {
+<<<<<<< HEAD
 
         int age = 5;
         int age2 = 7;
@@ -14,6 +15,16 @@ public class Starter {
         }
 
 
+=======
+        int age = 5;
+        System.out.println("siema");
+        System.out.println("gjs");
+        System.out.println("Czesc tu Just");
+        System.out.println("Czesc tu Just");
+
+
+        System.out.println("Welcome to GIT!!");
+>>>>>>> aed2cbb7062c1eb5a8eaf3483c1f89e98c239330
 
 
     }
