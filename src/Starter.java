@@ -6,5 +6,8 @@ public class Starter {
         System.out.println("Czesc tu Just");
         System.out.println("Czesc tu Just");
 
+
+        System.out.println("Welcome to GIT!!");
+
     }
 }
