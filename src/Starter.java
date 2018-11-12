@@ -16,11 +16,8 @@ public class Starter {
 
     }
 
-    
 
-
-
-        public static void Main{
+    {
         int age = 5;
         System.out.println("siema");
         System.out.println("gjs");
